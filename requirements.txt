@@ -1,0 +1,6 @@
+vanna
+chromadb
+pandas==2.0.3
+openai
+PyMySQL
+SQLAlchemy==1.4.51
